@@ -45,6 +45,9 @@ A RESTful API built with Node.js and Express for managing books and reviews with
 
 ## Database Schema
 
+![Book Review API - ER Diagram](/image.png)
+
+
 ### User Model
 
 The User model contains authentication and role information with the following fields:
